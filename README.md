@@ -1,2 +1,2 @@
 # Git-Github
-All Git &amp; Github necessary documents and cheat Sheet
+All Git & Github necessary documents and cheat Sheet
