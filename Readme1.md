@@ -7,12 +7,21 @@ Popular web-hosted services for Git repositories.
 GitHub is a repository hosting service that uses Git. GitHub provides a web-based hosting service with a graphical user interface(GUI) and git command line interface (CLI). It also provides access control and several collaboration features, such as wikis and basic task management tools, for every project. GitHub provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. GitHub includes a free plan for individual developers and for hosting open-source projects.
 ### Git & GitHub Basic Terms :
 SSH Protocol: Method to secure remote login
+<br>
 Rpository: Contains Project folders
+<br>
 Repositories are storage structures that store documents, including application source code, and enable contributors to track and maintain version control.
+<br>
 Fork: Copy of a repository
+<br>
 Pull Request: To request for review and approval
+<br>
 Working Directory: Contains files and subdirectories
+<br>
 Commit: Snapshot of the project's current state
+<br>
 Branch: Separate line of development
+<br>
 Merge: Combines changes from one branch to another
+<br>
 Clone: Local copy of the remote Git repository
